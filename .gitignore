@@ -102,3 +102,14 @@ dist
 
 # TernJS port file
 .tern-port
+
+# OSX
+#
+.DS_Store
+
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+logs/
